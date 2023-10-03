@@ -18,9 +18,9 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Oxe's blog" # the main title
+title: 'Oxe' # the main title
 
-tagline: Wannabe pentester # it will display as the sub-title
+tagline: 'Wannabe pentester' # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
    A personal blog to host articles or writeups !
@@ -29,10 +29,10 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: 0x307845 # change to your github username
+  username: '0x307845' # change to your github username
 
 twitter:
-  username: 0x307845 # change to your twitter username
+  username: '0x307845' # change to your twitter username
 
 social:
   # Change to your full name.
