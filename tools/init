@@ -3,7 +3,7 @@
 # Init the environment for new user.
 
 set -eu
-
+#uwu
 # CLI Dependencies
 CLI=("git" "npm")
 
