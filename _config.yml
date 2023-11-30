@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url:
 
 github:
-  username: '0x307845'             # change to your github username
+  username: 'Monsieur-Chat'             # change to your github username
 
 twitter:
   username: '0x307845'            # change to your twitter username
@@ -43,7 +43,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/0x307845      # change to your twitter homepage
-    - https://github.com/0x307845       # change to your github homepage
+    - https://github.com/Monsieur-Chat       # change to your github homepage
     # Uncomment below to add more social links
     - https://root-me.org/0x307845
     - https://www.linkedin.com/in/blanchet-adrien
