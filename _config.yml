@@ -39,14 +39,13 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Monsieur Chat
-  email: adrien.blanchet@protonmail.fr             # change to your email address
+  email: contact@monsieur.chat           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/0x307845      # change to your twitter homepage
     - https://github.com/Monsieur-Chat       # change to your github homepage
     # Uncomment below to add more social links
-    - https://root-me.org/0x307845
-    - https://www.linkedin.com/in/blanchet-adrien
+    - https://root-me.org/Monsieur-Chat
 
 google_site_verification:               # fill in to your verification string
 
