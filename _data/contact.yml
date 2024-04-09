@@ -9,11 +9,16 @@
   url: https://discord.gg/acfh9YPAUd
   noblank: true
 -
-  type: linkedin
-  icon: 'fa-brands fa-linkedin'
-  url: https://www.linkedin.com/in/blanchet-adrien/
+  type: mail
+  icon: 'fa-brands fa-envelope'
+  url: mailto:contact@monsieur.chat
   noblank: true
 -
+  type: rootme
+  icon: 'fa-solid fa-skull'
+  url: https://root-me.org/Monsieur-Chat
+  noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
