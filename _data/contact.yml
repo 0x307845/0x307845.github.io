@@ -10,7 +10,7 @@
   noblank: true
 -
   type: mail
-  icon: 'fa-brands fa-envelope'
+  icon: 'fa-solid fa-envelope'
   url: mailto:contact@monsieur.chat
   noblank: true
 -
