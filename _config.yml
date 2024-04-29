@@ -21,7 +21,7 @@ timezone:
 
 title: "Monsieur Chat"                          # the main title
 
-tagline: 'Wannabe Pentester'   # it will display as the sub-title
+tagline: 'Just a random cat'   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A personal blog to host articles or writeups !
